@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:hidoc/utils/app_utils.dart';
 
-import '../../../models/articles_api_models.dart';
+import '../../../data/models/articles_api_models.dart';
 import '../../../utils/app_colors.dart';
 import '../../../utils/text_widget.dart';
 

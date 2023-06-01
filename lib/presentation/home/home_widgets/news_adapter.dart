@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:hidoc/utils/app_utils.dart';
 import 'package:hidoc/utils/text_widget.dart';
 
-import '../../../models/articles_api_models.dart';
+import '../../../data/models/articles_api_models.dart';
 
 class NewsAdapter extends StatelessWidget {
   List<News> news;

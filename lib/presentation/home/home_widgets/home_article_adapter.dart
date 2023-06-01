@@ -2,7 +2,7 @@ import 'dart:ui';
 
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:hidoc/models/articles_api_models.dart';
+import 'package:hidoc/data/models/articles_api_models.dart';
 import 'package:hidoc/utils/app_utils.dart';
 import 'package:hidoc/widgets/responsive_layout.dart';
 import '../../../utils/app_colors.dart';

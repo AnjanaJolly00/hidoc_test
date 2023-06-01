@@ -1,8 +1,8 @@
-import 'package:hidoc/api_service.dart';
+import 'package:hidoc/data/api_service.dart';
 import 'package:hidoc/bloc/state/home_cubit_state.dart';
-import 'package:hidoc/models/articles_api_models.dart';
+import 'package:hidoc/data/models/articles_api_models.dart';
 
-import '../models/apiresponse.dart';
+import '../data/models/apiresponse.dart';
 import 'main/main_cubit.dart';
 
 class HomeScreenCubit extends MainCubit<HomeScreenState> {
